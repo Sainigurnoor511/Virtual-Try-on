@@ -1,0 +1,66 @@
+{
+    "1631048901990509:256051": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "4194304",
+                "compressedSize": "129304",
+                "extension": "png",
+                "originalRAM": "4194304",
+                "originalSize": "129304",
+                "settings": {
+                    "isCompressed": "false",
+                    "level": "0",
+                    "subtype": "9",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1675108673689153:2230"
+        }
+    },
+    "1675108673688984:2063": {
+        "IResourceController": {
+            "name": "leggings_albedo_2",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1631048901990509:256051",
+            "fileId": "1675108673689151:2228",
+            "originalId": "1675108673689152:2229",
+            "publicId": "1675108673689225:2331",
+            "expected_hash": "a0143f23e4c2b6a8cdad6588087fb99c",
+            "additional": {
+                "originHash": "a0143f23e4c2b6a8cdad6588087fb99c"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1631048901990509:256051",
+            "name": "Files/File_1675108673689151_2228.png",
+            "flags": 1
+        }
+    },
+    "1675108673689151:2228": {
+        "IFileManager": {
+            "path": "Files/File_1675108673689151_2228.png"
+        }
+    },
+    "1675108673689152:2229": {
+        "IFileManager": {
+            "path": "Files/File_1675108673689152_2229.png"
+        }
+    },
+    "1675108673689153:2230": {
+        "IFileManager": {
+            "path": "Files/File_1675108673689153_2230.png"
+        }
+    },
+    "1675108673689225:2331": {
+        "IResourceController": {
+            "public": {
+                "path": "Garments/Textures/leggings_albedo_2.png",
+                "hash": "a0143f23e4c2b6a8cdad6588087fb99c"
+            }
+        }
+    }
+}

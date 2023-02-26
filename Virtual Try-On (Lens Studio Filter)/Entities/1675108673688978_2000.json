@@ -1,0 +1,33 @@
+{
+    "1675108673688978:2000": {
+        "IResourceController": {
+            "name": "EnableChildByIndex",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1629495949943613:321095",
+            "fileId": "1675108673689006:2083",
+            "publicId": "1675108673689210:2264",
+            "expected_hash": "73ee001a67705710d9b29e172572152e"
+        },
+        "IResourceManager": {
+            "uid": "1629495949943613:321095",
+            "name": "Files/File_1675108673689006_2083.js",
+            "flags": 1
+        }
+    },
+    "1675108673689006:2083": {
+        "IFileManager": {
+            "path": "Files/File_1675108673689006_2083.js"
+        }
+    },
+    "1675108673689210:2264": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/Helpers/EnableChildByIndex.js",
+                "hash": "73ee001a67705710d9b29e172572152e"
+            }
+        }
+    }
+}

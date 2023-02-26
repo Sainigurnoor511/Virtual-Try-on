@@ -1,0 +1,33 @@
+{
+    "1675108673688978:2004": {
+        "IResourceController": {
+            "name": "Carousel3D",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1629923137116578:2317505",
+            "fileId": "1675108673689010:2088",
+            "publicId": "1675108673689209:2259",
+            "expected_hash": "74003eddf97d1c7c48ee740057c2eef0"
+        },
+        "IResourceManager": {
+            "uid": "1629923137116578:2317505",
+            "name": "Files/File_1675108673689010_2088.js",
+            "flags": 1
+        }
+    },
+    "1675108673689010:2088": {
+        "IFileManager": {
+            "path": "Files/File_1675108673689010_2088.js"
+        }
+    },
+    "1675108673689209:2259": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/3D UI/Carousel3D.js",
+                "hash": "74003eddf97d1c7c48ee740057c2eef0"
+            }
+        }
+    }
+}

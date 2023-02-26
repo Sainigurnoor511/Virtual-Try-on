@@ -1,0 +1,42 @@
+{
+    "1675108673688979:2015": {
+        "IResourceController": {
+            "name": "shorts_purple",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1629945001935287:90136",
+            "fileId": "1675108673689024:2102",
+            "originalId": "1675108673689039:2118",
+            "publicId": "1675108673689219:2304",
+            "expected_hash": "44923b90efad49bc96272a1479d68174",
+            "additional": {
+                "isUnpackedInPublic": "false"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1629945001935287:90136",
+            "name": "Files/File_1675108673689024_2102",
+            "flags": 1
+        }
+    },
+    "1675108673689024:2102": {
+        "IFileManager": {
+            "path": "Files/File_1675108673689024_2102"
+        }
+    },
+    "1675108673689039:2118": {
+        "IFileManager": {
+            "path": "Files/File_1675108673689039_2118.lsmat"
+        }
+    },
+    "1675108673689219:2304": {
+        "IResourceController": {
+            "public": {
+                "path": "Garments/Materials/shorts_purple.lsmat",
+                "hash": "2ced3ede277d0d2fafca0cb6a0f5d6c7"
+            }
+        }
+    }
+}

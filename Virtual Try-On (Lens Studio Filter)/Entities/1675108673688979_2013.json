@@ -1,0 +1,42 @@
+{
+    "1675108673688979:2013": {
+        "IResourceController": {
+            "name": "leggings_purple",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1629945000301185:90072",
+            "fileId": "1675108673689022:2100",
+            "originalId": "1675108673689037:2116",
+            "publicId": "1675108673689219:2302",
+            "expected_hash": "44923b90efad49bc96272a1479d68174",
+            "additional": {
+                "isUnpackedInPublic": "false"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1629945000301185:90072",
+            "name": "Files/File_1675108673689022_2100",
+            "flags": 1
+        }
+    },
+    "1675108673689022:2100": {
+        "IFileManager": {
+            "path": "Files/File_1675108673689022_2100"
+        }
+    },
+    "1675108673689037:2116": {
+        "IFileManager": {
+            "path": "Files/File_1675108673689037_2116.lsmat"
+        }
+    },
+    "1675108673689219:2302": {
+        "IResourceController": {
+            "public": {
+                "path": "Garments/Materials/leggings_purple.lsmat",
+                "hash": "029447ef9b3d228282afc15df0d6a138"
+            }
+        }
+    }
+}

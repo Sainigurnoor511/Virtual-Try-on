@@ -1,0 +1,31 @@
+{
+    "1675108673689034:2113": {
+        "IFileManager": {
+            "path": "Files/File_1675108673689034_2113.hdr"
+        }
+    },
+    "1675108673689211:2270": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/Marvista.hdr",
+                "hash": "a7ac471fd7325168eb784a10577fb476"
+            }
+        }
+    },
+    "1675108673689283:2387": {
+        "IResourceController": {
+            "name": "Marvista",
+            "type": 9,
+            "subtype": -1,
+            "dependency": 2,
+            "hidden": false,
+            "fileId": "1675108673689034:2113",
+            "publicId": "1675108673689211:2270",
+            "expected_hash": "a7ac471fd7325168eb784a10577fb476",
+            "resources": [
+                "1675108673688980:2018",
+                "1675108673688980:2019"
+            ]
+        }
+    }
+}

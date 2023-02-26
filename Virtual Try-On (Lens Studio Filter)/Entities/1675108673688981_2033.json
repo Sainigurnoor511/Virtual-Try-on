@@ -1,0 +1,94 @@
+{
+    "1630361936706969:632482": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "114408",
+                "compressedSize": "39753",
+                "extension": "mesh",
+                "originalRAM": "114408",
+                "originalSize": "39753",
+                "settings": {
+                    "attributeFormat": "",
+                    "draco": {
+                        "colorBits": "8",
+                        "compressLvl": "7",
+                        "normalBits": "8",
+                        "posBits": "11",
+                        "texBits": "10"
+                    },
+                    "info": {
+                        "hasBlendShapes": "false",
+                        "vertexAttribs": [
+                            {
+                                "canBeDisabled": "false",
+                                "format": "9",
+                                "semantic": "position"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "normal"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "tangent"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "texture0"
+                            }
+                        ]
+                    },
+                    "isCompressed": "false",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1675108673689153:2231"
+        }
+    },
+    "1675108673688981:2033": {
+        "IResourceController": {
+            "name": "ui_circle",
+            "type": 3,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1630361936706969:632482",
+            "fileId": "1675108673689054:2134",
+            "originalId": "1675108673689055:2135",
+            "publicId": "1675108673689215:2286",
+            "expected_hash": "7912ae02135db1103844db8c9fa7c355"
+        },
+        "IResourceManager": {
+            "uid": "1630361936706969:632482",
+            "name": "Files/File_1675108673689054_2134.mesh",
+            "flags": 1
+        }
+    },
+    "1675108673689054:2134": {
+        "IFileManager": {
+            "path": "Files/File_1675108673689054_2134.mesh"
+        }
+    },
+    "1675108673689055:2135": {
+        "IFileManager": {
+            "path": "Files/File_1675108673689055_2135.mesh"
+        }
+    },
+    "1675108673689153:2231": {
+        "IFileManager": {
+            "path": "Files/File_1675108673689153_2231.mesh"
+        }
+    },
+    "1675108673689215:2286": {
+        "IResourceController": {
+            "public": {
+                "path": "Meshes/UI/ui_circle.mesh",
+                "hash": "7912ae02135db1103844db8c9fa7c355"
+            }
+        }
+    }
+}

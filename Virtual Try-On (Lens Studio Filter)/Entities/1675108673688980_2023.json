@@ -1,0 +1,42 @@
+{
+    "1675108673688980:2023": {
+        "IResourceController": {
+            "name": "debug_invisible_mat",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1630097044483380:202265",
+            "fileId": "1675108673689043:2122",
+            "originalId": "1675108673689044:2123",
+            "publicId": "1675108673689199:2247",
+            "expected_hash": "cc7cd889d17283db88cdda8ba154f2d3",
+            "additional": {
+                "isUnpackedInPublic": "false"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1630097044483380:202265",
+            "name": "Files/File_1675108673689043_2122",
+            "flags": 1
+        }
+    },
+    "1675108673689043:2122": {
+        "IFileManager": {
+            "path": "Files/File_1675108673689043_2122"
+        }
+    },
+    "1675108673689044:2123": {
+        "IFileManager": {
+            "path": "Files/File_1675108673689044_2123.lsmat"
+        }
+    },
+    "1675108673689199:2247": {
+        "IResourceController": {
+            "public": {
+                "path": "Materials/UI/debug_invisible_mat.lsmat",
+                "hash": "d528032144f27ca0c89004c52c77384a"
+            }
+        }
+    }
+}

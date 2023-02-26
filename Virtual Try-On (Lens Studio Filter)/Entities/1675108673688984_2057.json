@@ -1,0 +1,42 @@
+{
+    "1675108673688984:2057": {
+        "IResourceController": {
+            "name": "hoodie_green",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1630542097387092:138016",
+            "fileId": "1675108673689105:2183",
+            "originalId": "1675108673689106:2184",
+            "publicId": "1675108673689224:2325",
+            "expected_hash": "c5cea5d4d96bd3b4aea58250ebba9689",
+            "additional": {
+                "isUnpackedInPublic": "false"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1630542097387092:138016",
+            "name": "Files/File_1675108673689105_2183",
+            "flags": 1
+        }
+    },
+    "1675108673689105:2183": {
+        "IFileManager": {
+            "path": "Files/File_1675108673689105_2183"
+        }
+    },
+    "1675108673689106:2184": {
+        "IFileManager": {
+            "path": "Files/File_1675108673689106_2184.lsmat"
+        }
+    },
+    "1675108673689224:2325": {
+        "IResourceController": {
+            "public": {
+                "path": "Garments/Materials/hoodie_green.lsmat",
+                "hash": "aaf8804cb16898a5c41f68d6d0f012ef"
+            }
+        }
+    }
+}

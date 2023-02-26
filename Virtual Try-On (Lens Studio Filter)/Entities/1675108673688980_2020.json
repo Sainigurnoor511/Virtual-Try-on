@@ -1,0 +1,33 @@
+{
+    "1675108673688980:2020": {
+        "IResourceController": {
+            "name": "BodyUIPlacer",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1630021038708982:3574271",
+            "fileId": "1675108673689040:2119",
+            "publicId": "1675108673689208:2255",
+            "expected_hash": "43151b0f450b3c28fd3b2512edbc8ad2"
+        },
+        "IResourceManager": {
+            "uid": "1630021038708982:3574271",
+            "name": "Files/File_1675108673689040_2119.js",
+            "flags": 1
+        }
+    },
+    "1675108673689040:2119": {
+        "IFileManager": {
+            "path": "Files/File_1675108673689040_2119.js"
+        }
+    },
+    "1675108673689208:2255": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/Body UI/BodyUIPlacer.js",
+                "hash": "43151b0f450b3c28fd3b2512edbc8ad2"
+            }
+        }
+    }
+}

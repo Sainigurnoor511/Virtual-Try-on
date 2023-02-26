@@ -1,0 +1,79 @@
+{
+    "1630541045584939:334089": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "1025",
+                        "uncompressed_hash": "96c622566b42b6e13111f8d59fa9be33"
+                    },
+                    "v": "1675108673689134:2211"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "2097152",
+                "compressedSize": "156100",
+                "extension": "png",
+                "originalRAM": "16777216",
+                "originalSize": "174448",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "1",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1675108673689122:2200"
+        }
+    },
+    "1675108673688983:2048": {
+        "IResourceController": {
+            "name": "fannypack_d",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1630541045584939:334089",
+            "fileId": "1675108673689086:2165",
+            "originalId": "1675108673689087:2166",
+            "publicId": "1675108673689222:2316",
+            "expected_hash": "577418cb93fd7be4a8841e723f65a035",
+            "additional": {
+                "originHash": "96c622566b42b6e13111f8d59fa9be33"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1630541045584939:334089",
+            "name": "Files/File588.jpg",
+            "flags": 1
+        }
+    },
+    "1675108673689086:2165": {
+        "IFileManager": {
+            "path": "Files/File_1675108673689086_2165.pvr"
+        }
+    },
+    "1675108673689087:2166": {
+        "IFileManager": {
+            "path": "Files/File_1675108673689087_2166.png"
+        }
+    },
+    "1675108673689122:2200": {
+        "IFileManager": {
+            "path": "Files/File_1675108673689122_2200.png"
+        }
+    },
+    "1675108673689134:2211": {
+        "IFileManager": {
+            "path": "Files/File_1675108673689134_2211.pvr"
+        }
+    },
+    "1675108673689222:2316": {
+        "IResourceController": {
+            "public": {
+                "path": "Garments/Textures/fannypack_d.png",
+                "hash": "96c622566b42b6e13111f8d59fa9be33"
+            }
+        }
+    }
+}

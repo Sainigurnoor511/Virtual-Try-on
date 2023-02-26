@@ -1,0 +1,42 @@
+{
+    "1675108673688982:2036": {
+        "IResourceController": {
+            "name": "ui_background",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1630370869316604:338722",
+            "fileId": "1675108673689060:2140",
+            "originalId": "1675108673689061:2141",
+            "publicId": "1675108673689205:2250",
+            "expected_hash": "55c31eb130384f088edef2fb28c6fea3",
+            "additional": {
+                "isUnpackedInPublic": "false"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1630370869316604:338722",
+            "name": "Files/File_1675108673689060_2140",
+            "flags": 1
+        }
+    },
+    "1675108673689060:2140": {
+        "IFileManager": {
+            "path": "Files/File_1675108673689060_2140"
+        }
+    },
+    "1675108673689061:2141": {
+        "IFileManager": {
+            "path": "Files/File_1675108673689061_2141.lsmat"
+        }
+    },
+    "1675108673689205:2250": {
+        "IResourceController": {
+            "public": {
+                "path": "Materials/UI/ui_background.lsmat",
+                "hash": "f19eecc78cda0af81effd7e19d3c0282"
+            }
+        }
+    }
+}

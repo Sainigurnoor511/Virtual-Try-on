@@ -1,0 +1,33 @@
+{
+    "1675108673688978:2005": {
+        "IResourceController": {
+            "name": "AlignChildrenMeshes",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1629923137184389:2317533",
+            "fileId": "1675108673689011:2089",
+            "publicId": "1675108673689210:2263",
+            "expected_hash": "caf5ba18f02255359671eacc67147613"
+        },
+        "IResourceManager": {
+            "uid": "1629923137184389:2317533",
+            "name": "Files/File_1675108673689011_2089.js",
+            "flags": 1
+        }
+    },
+    "1675108673689011:2089": {
+        "IFileManager": {
+            "path": "Files/File_1675108673689011_2089.js"
+        }
+    },
+    "1675108673689210:2263": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/Helpers/AlignChildrenMeshes.js",
+                "hash": "caf5ba18f02255359671eacc67147613"
+            }
+        }
+    }
+}

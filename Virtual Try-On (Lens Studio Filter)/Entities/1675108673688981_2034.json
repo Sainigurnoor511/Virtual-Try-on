@@ -1,0 +1,42 @@
+{
+    "1675108673688981:2034": {
+        "IResourceController": {
+            "name": "ui_loading",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1630361936995766:632508",
+            "fileId": "1675108673689056:2136",
+            "originalId": "1675108673689057:2137",
+            "publicId": "1675108673689201:2248",
+            "expected_hash": "bdcd30fd61bffccdb6a4c0c16ff86d7c",
+            "additional": {
+                "isUnpackedInPublic": "false"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1630361936995766:632508",
+            "name": "Files/File_1675108673689056_2136",
+            "flags": 1
+        }
+    },
+    "1675108673689056:2136": {
+        "IFileManager": {
+            "path": "Files/File_1675108673689056_2136"
+        }
+    },
+    "1675108673689057:2137": {
+        "IFileManager": {
+            "path": "Files/File_1675108673689057_2137.lsmat"
+        }
+    },
+    "1675108673689201:2248": {
+        "IResourceController": {
+            "public": {
+                "path": "Materials/UI/ui_loading.lsmat",
+                "hash": "fd94a59cb54832917b91c257704aab72"
+            }
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "1675108673688980:2025": {
+        "IResourceController": {
+            "name": "shorts_body_mesh",
+            "type": 3,
+            "subtype": 4,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1630108565783268:839744",
+            "additional": {
+                "externalBodyMapFileID": "1675108673689045:2125"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1630108565783268:839744",
+            "name": "",
+            "flags": 0
+        }
+    }
+}

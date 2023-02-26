@@ -1,0 +1,33 @@
+{
+    "1675108673688977:1996": {
+        "IResourceController": {
+            "name": "BodyUITransitionController",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1629480064268442:173139",
+            "fileId": "1675108673689001:2078",
+            "publicId": "1675108673689208:2254",
+            "expected_hash": "efd366ec91cf32eee69062a1f711eb4e"
+        },
+        "IResourceManager": {
+            "uid": "1629480064268442:173139",
+            "name": "Files/File_1675108673689001_2078.js",
+            "flags": 1
+        }
+    },
+    "1675108673689001:2078": {
+        "IFileManager": {
+            "path": "Files/File_1675108673689001_2078.js"
+        }
+    },
+    "1675108673689208:2254": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/Body UI/BodyUITransitionController.js",
+                "hash": "efd366ec91cf32eee69062a1f711eb4e"
+            }
+        }
+    }
+}

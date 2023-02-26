@@ -1,0 +1,33 @@
+{
+    "1675108673688978:2006": {
+        "IResourceController": {
+            "name": "MakeMateriallnvisible",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1629923137677917:2317618",
+            "fileId": "1675108673689012:2090",
+            "publicId": "1675108673689209:2262",
+            "expected_hash": "353dfcaf4e2761be17159d11e4c16e3a"
+        },
+        "IResourceManager": {
+            "uid": "1629923137677917:2317618",
+            "name": "Files/File_1675108673689012_2090.js",
+            "flags": 1
+        }
+    },
+    "1675108673689012:2090": {
+        "IFileManager": {
+            "path": "Files/File_1675108673689012_2090.js"
+        }
+    },
+    "1675108673689209:2262": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/Helpers/MakeMateriallnvisible.js",
+                "hash": "353dfcaf4e2761be17159d11e4c16e3a"
+            }
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "1675108673688977:1992": {
+        "IResourceController": {
+            "name": "BodyTrackingDetector",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1629409231586683:102522",
+            "fileId": "1675108673688997:2074",
+            "publicId": "1675108673689207:2252",
+            "expected_hash": "9aaecb161baf590719333a4f6837e120"
+        },
+        "IResourceManager": {
+            "uid": "1629409231586683:102522",
+            "name": "Files/File_1675108673688997_2074.js",
+            "flags": 1
+        }
+    },
+    "1675108673688997:2074": {
+        "IFileManager": {
+            "path": "Files/File_1675108673688997_2074.js"
+        }
+    },
+    "1675108673689207:2252": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/BodyTrackingDetector.js",
+                "hash": "9aaecb161baf590719333a4f6837e120"
+            }
+        }
+    }
+}

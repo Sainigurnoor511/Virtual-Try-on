@@ -1,0 +1,20 @@
+{
+    "1675108673688979:2016": {
+        "IResourceController": {
+            "name": "tshirt_body_mesh",
+            "type": 3,
+            "subtype": 4,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1629946375373099:220053",
+            "additional": {
+                "externalBodyMapFileID": "1675108673689028:2106"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1629946375373099:220053",
+            "name": "",
+            "flags": 0
+        }
+    }
+}

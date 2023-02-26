@@ -1,0 +1,42 @@
+{
+    "1675108673688982:2039": {
+        "IResourceController": {
+            "name": "tshirt_white",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1630533841149278:1066585",
+            "fileId": "1675108673689067:2147",
+            "originalId": "1675108673689068:2148",
+            "publicId": "1675108673689220:2307",
+            "expected_hash": "629792151539677fa6fb0d5a4cc5e1a7",
+            "additional": {
+                "isUnpackedInPublic": "false"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1630533841149278:1066585",
+            "name": "Files/File_1675108673689067_2147",
+            "flags": 1
+        }
+    },
+    "1675108673689067:2147": {
+        "IFileManager": {
+            "path": "Files/File_1675108673689067_2147"
+        }
+    },
+    "1675108673689068:2148": {
+        "IFileManager": {
+            "path": "Files/File_1675108673689068_2148.lsmat"
+        }
+    },
+    "1675108673689220:2307": {
+        "IResourceController": {
+            "public": {
+                "path": "Garments/Materials/tshirt_white.lsmat",
+                "hash": "8cc60d36e6182960fb85ed6b606ec103"
+            }
+        }
+    }
+}

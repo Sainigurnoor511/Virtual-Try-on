@@ -1,0 +1,17 @@
+{
+    "1675108673688976:1986": {
+        "IResourceController": {
+            "name": "head_and_hands_occluder",
+            "type": 3,
+            "subtype": 4,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1629318361446668:102351"
+        },
+        "IResourceManager": {
+            "uid": "1629318361446668:102351",
+            "name": "",
+            "flags": 0
+        }
+    }
+}

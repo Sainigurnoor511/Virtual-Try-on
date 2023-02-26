@@ -1,0 +1,79 @@
+{
+    "1630541052078982:334539": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "1025",
+                        "uncompressed_hash": "b325bfa876979356b507b5274857be3e"
+                    },
+                    "v": "1675108673689139:2216"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "524288",
+                "compressedSize": "135369",
+                "extension": "png",
+                "originalRAM": "4194304",
+                "originalSize": "88713",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "1",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1675108673689117:2195"
+        }
+    },
+    "1675108673688983:2052": {
+        "IResourceController": {
+            "name": "leggings_albedo_1",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1630541052078982:334539",
+            "fileId": "1675108673689096:2173",
+            "originalId": "1675108673689097:2174",
+            "publicId": "1675108673689223:2320",
+            "expected_hash": "c70f9820b33e96636192fa3e603b92cd",
+            "additional": {
+                "originHash": "b325bfa876979356b507b5274857be3e"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1630541052078982:334539",
+            "name": "Files/File609.jpg",
+            "flags": 1
+        }
+    },
+    "1675108673689096:2173": {
+        "IFileManager": {
+            "path": "Files/File_1675108673689096_2173.pvr"
+        }
+    },
+    "1675108673689097:2174": {
+        "IFileManager": {
+            "path": "Files/File_1675108673689097_2174.png"
+        }
+    },
+    "1675108673689117:2195": {
+        "IFileManager": {
+            "path": "Files/File_1675108673689117_2195.png"
+        }
+    },
+    "1675108673689139:2216": {
+        "IFileManager": {
+            "path": "Files/File_1675108673689139_2216.pvr"
+        }
+    },
+    "1675108673689223:2320": {
+        "IResourceController": {
+            "public": {
+                "path": "Garments/Textures/leggings_albedo_1.png",
+                "hash": "b325bfa876979356b507b5274857be3e"
+            }
+        }
+    }
+}

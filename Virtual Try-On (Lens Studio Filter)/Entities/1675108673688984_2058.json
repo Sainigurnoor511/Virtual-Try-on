@@ -1,0 +1,42 @@
+{
+    "1675108673688984:2058": {
+        "IResourceController": {
+            "name": "hoodie_pink",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1630542152152210:149573",
+            "fileId": "1675108673689107:2185",
+            "originalId": "1675108673689108:2186",
+            "publicId": "1675108673689224:2326",
+            "expected_hash": "c5cea5d4d96bd3b4aea58250ebba9689",
+            "additional": {
+                "isUnpackedInPublic": "false"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1630542152152210:149573",
+            "name": "Files/File_1675108673689107_2185",
+            "flags": 1
+        }
+    },
+    "1675108673689107:2185": {
+        "IFileManager": {
+            "path": "Files/File_1675108673689107_2185"
+        }
+    },
+    "1675108673689108:2186": {
+        "IFileManager": {
+            "path": "Files/File_1675108673689108_2186.lsmat"
+        }
+    },
+    "1675108673689224:2326": {
+        "IResourceController": {
+            "public": {
+                "path": "Garments/Materials/hoodie_pink.lsmat",
+                "hash": "476a8f219e453345c81ac419c0cf768b"
+            }
+        }
+    }
+}

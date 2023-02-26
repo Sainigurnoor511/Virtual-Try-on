@@ -1,0 +1,23 @@
+{
+    "1675108673689208:2257": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/3D UI"
+            }
+        }
+    },
+    "1675108673689277:2384": {
+        "IResourceController": {
+            "name": "3D UI",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1675108673689208:2257",
+            "resources": [
+                "1675108673688978:1998",
+                "1675108673688978:2004"
+            ]
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "1675108673688982:2038": {
+        "IResourceController": {
+            "name": "fannypack_body_mesh",
+            "type": 3,
+            "subtype": 4,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1630531574489248:765997",
+            "additional": {
+                "externalBodyMapFileID": "1675108673689142:2219"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1630531574489248:765997",
+            "name": "",
+            "flags": 0
+        }
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "1675108673688979:2014": {
+        "IResourceController": {
+            "name": "shorts_yellow",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1629945001775704:90104",
+            "fileId": "1675108673689023:2101",
+            "originalId": "1675108673689038:2117",
+            "publicId": "1675108673689219:2303",
+            "expected_hash": "44923b90efad49bc96272a1479d68174",
+            "additional": {
+                "isUnpackedInPublic": "false"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1629945001775704:90104",
+            "name": "Files/File_1675108673689023_2101",
+            "flags": 1
+        }
+    },
+    "1675108673689023:2101": {
+        "IFileManager": {
+            "path": "Files/File_1675108673689023_2101"
+        }
+    },
+    "1675108673689038:2117": {
+        "IFileManager": {
+            "path": "Files/File_1675108673689038_2117.lsmat"
+        }
+    },
+    "1675108673689219:2303": {
+        "IResourceController": {
+            "public": {
+                "path": "Garments/Materials/shorts_yellow.lsmat",
+                "hash": "c528e19398cf0ed317f53f5393093166"
+            }
+        }
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "1675108673689207:2253": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/Body UI"
+            }
+        }
+    },
+    "1675108673689276:2383": {
+        "IResourceController": {
+            "name": "Body UI",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1675108673689207:2253",
+            "resources": [
+                "1675108673688977:1996",
+                "1675108673688980:2020",
+                "1675108673688978:2002"
+            ]
+        }
+    }
+}

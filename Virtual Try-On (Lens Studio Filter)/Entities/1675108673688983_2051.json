@@ -1,0 +1,79 @@
+{
+    "1630541050815904:334457": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "1025",
+                        "uncompressed_hash": "e331b7bd6c8ca29628d9b50e658cc7d2"
+                    },
+                    "v": "1675108673689138:2215"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "524288",
+                "compressedSize": "159877",
+                "extension": "png",
+                "originalRAM": "4194304",
+                "originalSize": "148921",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "1",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1675108673689119:2197"
+        }
+    },
+    "1675108673688983:2051": {
+        "IResourceController": {
+            "name": "leggings_n",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1630541050815904:334457",
+            "fileId": "1675108673689094:2171",
+            "originalId": "1675108673689095:2172",
+            "publicId": "1675108673689223:2319",
+            "expected_hash": "562b47599e648697ff40708e2eef83eb",
+            "additional": {
+                "originHash": "e331b7bd6c8ca29628d9b50e658cc7d2"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1630541050815904:334457",
+            "name": "Files/File603.jpg",
+            "flags": 1
+        }
+    },
+    "1675108673689094:2171": {
+        "IFileManager": {
+            "path": "Files/File_1675108673689094_2171.pvr"
+        }
+    },
+    "1675108673689095:2172": {
+        "IFileManager": {
+            "path": "Files/File_1675108673689095_2172.png"
+        }
+    },
+    "1675108673689119:2197": {
+        "IFileManager": {
+            "path": "Files/File_1675108673689119_2197.png"
+        }
+    },
+    "1675108673689138:2215": {
+        "IFileManager": {
+            "path": "Files/File_1675108673689138_2215.pvr"
+        }
+    },
+    "1675108673689223:2319": {
+        "IResourceController": {
+            "public": {
+                "path": "Garments/Textures/leggings_n.png",
+                "hash": "e331b7bd6c8ca29628d9b50e658cc7d2"
+            }
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "1675108673688980:2019": {
+        "IResourceController": {
+            "name": "Specular",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 1,
+            "hidden": false,
+            "uid": "1629999386188600:1299344",
+            "fileId": "1675108673689033:2111",
+            "originalId": "1675108673689033:2112",
+            "expected_hash": "98a857e4a1551bb6ab7d6450e552d29c",
+            "additional": {
+                "originHash": "98a857e4a1551bb6ab7d6450e552d29c"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1629999386188600:1299344",
+            "name": "Files/File_1675108673689033_2111.jpeg",
+            "flags": 1
+        }
+    },
+    "1675108673689033:2111": {
+        "IFileManager": {
+            "path": "Files/File_1675108673689033_2111.jpeg"
+        }
+    },
+    "1675108673689033:2112": {
+        "IFileManager": {
+            "path": "Files/File_1675108673689033_2112.jpeg"
+        }
+    }
+}

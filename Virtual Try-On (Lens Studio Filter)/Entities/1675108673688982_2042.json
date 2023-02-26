@@ -1,0 +1,42 @@
+{
+    "1675108673688982:2042": {
+        "IResourceController": {
+            "name": "fanny_pack_base",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1630534651340520:1181481",
+            "fileId": "1675108673689073:2153",
+            "originalId": "1675108673689074:2154",
+            "publicId": "1675108673689221:2310",
+            "expected_hash": "c5cea5d4d96bd3b4aea58250ebba9689",
+            "additional": {
+                "isUnpackedInPublic": "false"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1630534651340520:1181481",
+            "name": "Files/File_1675108673689073_2153",
+            "flags": 1
+        }
+    },
+    "1675108673689073:2153": {
+        "IFileManager": {
+            "path": "Files/File_1675108673689073_2153"
+        }
+    },
+    "1675108673689074:2154": {
+        "IFileManager": {
+            "path": "Files/File_1675108673689074_2154.lsmat"
+        }
+    },
+    "1675108673689221:2310": {
+        "IResourceController": {
+            "public": {
+                "path": "Garments/Materials/fanny_pack_base.lsmat",
+                "hash": "3301e8bc79e598abe3c3ae1ba7e14bc1"
+            }
+        }
+    }
+}

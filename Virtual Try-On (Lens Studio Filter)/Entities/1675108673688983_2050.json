@@ -1,0 +1,79 @@
+{
+    "1630541049357697:334329": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "1025",
+                        "uncompressed_hash": "76952f287952fd6fed92e6100c85bc3a"
+                    },
+                    "v": "1675108673689137:2214"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "524288",
+                "compressedSize": "153653",
+                "extension": "png",
+                "originalRAM": "4194304",
+                "originalSize": "117439",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "1",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1675108673689110:2188"
+        }
+    },
+    "1675108673688983:2050": {
+        "IResourceController": {
+            "name": "shorts_albedo_1",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1630541049357697:334329",
+            "fileId": "1675108673689092:2169",
+            "originalId": "1675108673689093:2170",
+            "publicId": "1675108673689222:2318",
+            "expected_hash": "8378cc555deef6461defb5e86a894e2b",
+            "additional": {
+                "originHash": "76952f287952fd6fed92e6100c85bc3a"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1630541049357697:334329",
+            "name": "Files/File600.jpg",
+            "flags": 1
+        }
+    },
+    "1675108673689092:2169": {
+        "IFileManager": {
+            "path": "Files/File_1675108673689092_2169.pvr"
+        }
+    },
+    "1675108673689093:2170": {
+        "IFileManager": {
+            "path": "Files/File_1675108673689093_2170.png"
+        }
+    },
+    "1675108673689110:2188": {
+        "IFileManager": {
+            "path": "Files/File_1675108673689110_2188.png"
+        }
+    },
+    "1675108673689137:2214": {
+        "IFileManager": {
+            "path": "Files/File_1675108673689137_2214.pvr"
+        }
+    },
+    "1675108673689222:2318": {
+        "IResourceController": {
+            "public": {
+                "path": "Garments/Textures/shorts_albedo_1.png",
+                "hash": "76952f287952fd6fed92e6100c85bc3a"
+            }
+        }
+    }
+}

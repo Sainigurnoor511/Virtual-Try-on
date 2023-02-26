@@ -1,0 +1,94 @@
+{
+    "1630553404174295:98713": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "199512",
+                "compressedSize": "169169",
+                "extension": "mesh",
+                "originalRAM": "199512",
+                "originalSize": "169169",
+                "settings": {
+                    "attributeFormat": "",
+                    "draco": {
+                        "colorBits": "8",
+                        "compressLvl": "7",
+                        "normalBits": "8",
+                        "posBits": "11",
+                        "texBits": "10"
+                    },
+                    "info": {
+                        "hasBlendShapes": "false",
+                        "vertexAttribs": [
+                            {
+                                "canBeDisabled": "false",
+                                "format": "9",
+                                "semantic": "position"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "normal"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "tangent"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "texture0"
+                            }
+                        ]
+                    },
+                    "isCompressed": "false",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1675108673689164:2242"
+        }
+    },
+    "1675108673688984:2061": {
+        "IResourceController": {
+            "name": "fanny_pack_waist_mesh",
+            "type": 3,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1630553404174295:98713",
+            "fileId": "1675108673689145:2222",
+            "originalId": "1675108673689146:2223",
+            "publicId": "1675108673689225:2329",
+            "expected_hash": "f67040db8fc857aded7e9de30425752e"
+        },
+        "IResourceManager": {
+            "uid": "1630553404174295:98713",
+            "name": "Files/File_1675108673689145_2222.mesh",
+            "flags": 1
+        }
+    },
+    "1675108673689145:2222": {
+        "IFileManager": {
+            "path": "Files/File_1675108673689145_2222.mesh"
+        }
+    },
+    "1675108673689146:2223": {
+        "IFileManager": {
+            "path": "Files/File_1675108673689146_2223.mesh"
+        }
+    },
+    "1675108673689164:2242": {
+        "IFileManager": {
+            "path": "Files/File_1675108673689164_2242.mesh"
+        }
+    },
+    "1675108673689225:2329": {
+        "IResourceController": {
+            "public": {
+                "path": "Garments/Meshes/fanny_pack_waist_mesh.mesh",
+                "hash": "f67040db8fc857aded7e9de30425752e"
+            }
+        }
+    }
+}

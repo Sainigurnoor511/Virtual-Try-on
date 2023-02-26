@@ -1,0 +1,24 @@
+{
+    "1675108673689216:2292": {
+        "IResourceController": {
+            "public": {
+                "path": "Garments"
+            }
+        }
+    },
+    "1675108673689340:2399": {
+        "IResourceController": {
+            "name": "Garments",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1675108673689216:2292",
+            "resources": [
+                "1675108673689304:2396",
+                "1675108673689334:2397",
+                "1675108673689340:2398"
+            ]
+        }
+    }
+}

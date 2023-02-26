@@ -1,0 +1,33 @@
+{
+    "1675108673688978:2002": {
+        "IResourceController": {
+            "name": "BodyUIButton",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1629837490640564:5657808",
+            "fileId": "1675108673689009:2087",
+            "publicId": "1675108673689208:2256",
+            "expected_hash": "633fa805e8fbd3021c762dd6c87f5a3e"
+        },
+        "IResourceManager": {
+            "uid": "1629837490640564:5657808",
+            "name": "Files/File_1675108673689009_2087.js",
+            "flags": 1
+        }
+    },
+    "1675108673689009:2087": {
+        "IFileManager": {
+            "path": "Files/File_1675108673689009_2087.js"
+        }
+    },
+    "1675108673689208:2256": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/Body UI/BodyUIButton.js",
+                "hash": "633fa805e8fbd3021c762dd6c87f5a3e"
+            }
+        }
+    }
+}

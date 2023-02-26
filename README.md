@@ -19,11 +19,11 @@ An Augmented Reality technology to try on clothes virtually.
 # For shoe Try-On
 
 1. Open shoetryon-web-js-main folder
-2. 
-3. Open terminal in this folder and run the following commands
-4. 
-5. Run `npm install`
-6. 
-7. Run `npm run demo`
+
+2. Open terminal in this folder and run the following commands
+
+3. Run `npm install`
+
+4.Run `npm run demo`
 
 Note:- Install node.js before running these commands.

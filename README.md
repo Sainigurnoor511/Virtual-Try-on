@@ -24,6 +24,6 @@ An Augmented Reality technology to try on clothes virtually.
 
 3. Run `npm install`
 
-4.Run `npm run demo`
+4. Run `npm run demo`
 
 Note:- Install node.js before running these commands.
